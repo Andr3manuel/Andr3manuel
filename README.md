@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 7th-term **Mechatronics Engineering** student at **Universidad Nacional de Ingeniería (UNI)**, ranked in the **Top Third (Tercio Superior)**.
+- 🎓 7th-term **Mechatronics Engineering** student at **Universidad Nacional de Ingeniería (UNI)**.
 - 💼 R&D Developer at **JW Control**, building embedded systems, firmware for ESP32, signal conditioning instrumentation, and industrial HMI tooling.
 - 🛰️ **Electronics & Firmware Lead** for **CanSat Competition 2026**, designing custom flight computer PCBs and low-latency wireless telemetry with **ESP-NOW (2.4 GHz)**.
 - 🧠 Deeply interested in **Applied Artificial Intelligence**: building with the **Model Context Protocol (MCP)**, Local SLMs/LLMs, computer vision, and autonomous **Agent Runtimes (Harnesses)** to multiply engineering speed.
